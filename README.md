@@ -20,11 +20,11 @@ You can watch them online here on YouTube at the [Windows Developer channel](htt
 
 ## Using WinUI 3
 
-You can build new Windows apps using WinUI 3, which ships as a part of the Windows App SDK. The latest available stable release is the Windows App SDK 1.4 (previously called Project Reunion). With this release, you can ship production Desktop apps to the Microsoft Store.
+You can build new Windows apps using WinUI 3, which ships as a part of the Windows App SDK. The latest available stable release is the Windows App SDK 1.5 (previously called Project Reunion). With this release, you can ship production Desktop apps to the Microsoft Store.
 
-See the [installation instructions](https://docs.microsoft.com/windows/apps/windows-app-sdk/set-up-your-development-environment), and guidelines on [creating your first WinUI 3 app](https://docs.microsoft.com/windows/apps/winui/winui3/create-your-first-winui3-app). 
+New to WinUI 3? Get started with the right tools and create your first Hello World app [here](https://learn.microsoft.com/windows/apps/get-started/start-here)! If you prefer to go straight to your own custom app instead, check out the [installation instructions](https://docs.microsoft.com/windows/apps/windows-app-sdk/set-up-your-development-environment) and guidelines on [creating your first WinUI 3 app](https://docs.microsoft.com/windows/apps/winui/winui3/create-your-first-winui3-app). 
 
-The source code for WinUI 3 can be found [here](https://github.com/microsoft/microsoft-ui-xaml/tree/winui3/release/1.4-stable).
+The source code for WinUI 3 can be found [here](https://github.com/microsoft/microsoft-ui-xaml/releases).
 
 ## Using WinUI 2
 You can download and use WinUI packages in your app using the NuGet package manager: see the [Getting Started with the Windows UI Library](https://docs.microsoft.com/uwp/toolkits/winui/getting-started) page for more information.
